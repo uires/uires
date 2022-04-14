@@ -1,6 +1,6 @@
 
           
-### &nbsp;Olá 🙂
+### &nbsp;Olá
 
 ```php
 <?php
