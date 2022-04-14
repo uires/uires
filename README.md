@@ -1,12 +1,29 @@
 
           
-### &nbsp;Olá, me chamo Uíres
+### &nbsp;Olá 🙂
 
-- 🔭 Atualmente estou trabalhando na Capgemini como Fullstack Developer
-- 🌱 Atualmente estou aprendendo Elixir
+```php
+<?php
 
-<br/>
+namespace Github\Uires;
 
+class FullstackDeveloper:
+    
+    private string $name;
+    private string $role;
+    private array $language_spoken;
+    private string $location;
+    
+    public function __construct() {
+          $this->name = "Uíres Sousa";
+          $this->role = "Fullstack Developer";
+          $this->language_spoken = ["pt_BR", "en_US"];
+          $this->location = "Salvador/Bahia - Brasil";
+    }
+}
+
+$me = new FullstackDeveloper();
+```
 
 ### 🛠️ Ferramentas e tecnologias
 <div>
