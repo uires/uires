@@ -1,16 +1,33 @@
-### Hi there 👋
 
-<!--
-**uires/uires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+          
+### &nbsp;Olá, me chamo Uíres
 
-Here are some ideas to get you started:
+- 🔭 Atualmente estou trabalhando na Capgemini como Fullstack Developer
+- 🌱 Atualmente estou aprendendo Elixir
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+
+### 🛠️ Ferramentas e tecnologias
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="60" height="60"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60" />                   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" />    
+</div>
+
+### 📊 Github analytics
+<div>
+<a href="https://github.com/uires">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uires&layout=compact&langs_count=7"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=uires&show_icons=true&include_all_commits=true&count_private=true"/>
+</div>
+
+### 🌐 Contatos
+<div>
+<a href="https://www.linkedin.com/in/u%C3%ADres-sousa-284733142/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
